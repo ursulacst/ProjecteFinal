@@ -7,7 +7,7 @@ Els notebooks ECOmonai i MAMOmonai corresponen a els notebooks utilitzats per a 
 
 A cada notebook hi ha una explicació de cada pas realitzat. 
 
-A les carpetes ecomama i MamoMama hi ha els arxius necessàris per crear els Spaces a Hugging Faces. Hi trobarem el model exportat en pkl, un fitxer Python on està l'aplicació, un fitxer de text amb les llibreries necessàries i les imatges d'exemple. 
+A les carpetes ecomama i MamoMama hi ha els arxius necessàris per crear els Spaces a Hugging Faces. Hi trobarem el model exportat en pkl, un fitxer Python on està l'aplicació, un fitxer de text amb les llibreries necessàries i les imatges d'exemple. He seguit el següent tutorial per crear el Spaces: https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial
 
 A continuació hi han els links per poder accedir als Spaces. Són públics i es poden editar. 
 
